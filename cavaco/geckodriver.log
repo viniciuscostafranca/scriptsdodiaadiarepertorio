@@ -93,3 +93,59 @@ Exiting due to channel error.
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 Exiting due to channel error.
 Exiting due to channel error.
+1611235384271	geckodriver	INFO	Listening on 127.0.0.1:49446
+1611235385283	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x2/6xzxvt691pbf0npsg9bjymh40000gn/T/rust_mozprofilerB6qfZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611235388651	Marionette	INFO	Listening on port 49457
+1611235388756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://api.cazamba.com/common/czmb.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1611235637318	geckodriver	INFO	Listening on 127.0.0.1:49800
+1611235638332	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x2/6xzxvt691pbf0npsg9bjymh40000gn/T/rust_mozprofiler0zMxh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611235641046	Marionette	INFO	Listening on port 49811
+1611235641154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://api.cazamba.com/common/czmb.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1611235675775	geckodriver	INFO	Listening on 127.0.0.1:49934
+1611235676787	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x2/6xzxvt691pbf0npsg9bjymh40000gn/T/rust_mozprofileBfD6Wm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611235679818	Marionette	INFO	Listening on port 49946
+1611235679929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://api.cazamba.com/common/czmb.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 12: TypeError: Node.appendChild: Argument 1 is not an object.
+1611236051759	Marionette	INFO	Stopped listening on port 49811
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611236053766	Marionette	INFO	Stopped listening on port 49946
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

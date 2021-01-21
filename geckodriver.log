@@ -878,3 +878,92 @@ JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEven
 JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
 JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
 JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+1611235781499	geckodriver	INFO	Listening on 127.0.0.1:50106
+1611235782513	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x2/6xzxvt691pbf0npsg9bjymh40000gn/T/rust_mozprofile9RY6zT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611235786600	Marionette	INFO	Listening on port 50117
+1611235786717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://api.cazamba.com/common/czmb.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2021-01-21 10:29:48.505 plugin-container[11678:16529003] PLClientLogging: unknown permission type 2
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1611236001937	geckodriver	INFO	Listening on 127.0.0.1:50329
+1611236002948	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x2/6xzxvt691pbf0npsg9bjymh40000gn/T/rust_mozprofileWVMzS9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611236005836	Marionette	INFO	Listening on port 50340
+1611236005976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api.cazamba.com/common/czmb.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20210113/r20190131/show_ads_impl_fy2019.js, line 254: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20210113/r20190131/show_ads_impl_fy2019.js, line 254: Error: XHR error: https://partner.googleadservices.com/gampad/cookie.js?domain=www.pegacifra.com.br&client=ca-pub-6956849379186942&cookie=ID=98f4064716022e3a-222a57119db800d4:T=1611236198:RT=1611236198:S=ALNI_MZjiW9SLQYIy-HwHT71zVyiq-zt1A
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+1611236059624	Marionette	INFO	Stopped listening on port 50117
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611236061477	Marionette	INFO	Stopped listening on port 50340
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611236097914	geckodriver	INFO	Listening on 127.0.0.1:50502
+1611236098921	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x2/6xzxvt691pbf0npsg9bjymh40000gn/T/rust_mozprofileJwP8n9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611236101545	Marionette	INFO	Listening on port 50513
+1611236101609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api.cazamba.com/common/czmb.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1611236423094	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1611236453845	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1611236507723	Marionette	INFO	Stopped listening on port 50513

@@ -34,7 +34,7 @@ for urlsFiltro in arrayUrls:
     driver.get(urlsFiltro)
     contador+=1
     titulo = driver.execute_script("return document.getElementsByClassName('music')[0].innerHTML")
-    val = driver.execute_script("return document.getElementById('tmpac').innerHTML")
+    val = driver.execute_script("return document.getElementById('tmpac').innerHTML.normalize()")
     tituloComContador= str(contador)+'.'+titulo
     conteudoHtml= gerarHtml(val,tituloComContador)
     print(conteudoHtml)
